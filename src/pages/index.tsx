@@ -7,7 +7,6 @@ function Home() {
     <>
       <CreateId />
       <SearchService />
-      <SearchTalent />
     </>
   );
 }
