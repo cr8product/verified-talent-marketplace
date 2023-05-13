@@ -19,6 +19,6 @@ function Verify() {
           </div>
         </div>
       </div>
-    </div>            
+    </div>)}
 
 export default Verify;
